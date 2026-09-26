@@ -1,2 +1,2 @@
-if game.PlaceId ~= 920587237 or game.PlaceId ~= 132388544979740 then return end
+if game.PlaceId ~= 920587237 and game.PlaceId ~= 132388544979740 then return end
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ro-Cloudblox/Adopt-Me/refs/heads/main/Spawner-Code"))()
