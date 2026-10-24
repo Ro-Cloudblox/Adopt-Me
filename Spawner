@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://ro-cloud.xyz/api/spawner"))()
+loadstring(game:HttpGet("https://ro-cloud.org/api/spawner"))()
